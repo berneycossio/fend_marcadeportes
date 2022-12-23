@@ -12,7 +12,8 @@ import PageSesion from './components/PageSesion';
 import PageUsuarios from './components/PageUsuarios';
 import axios from 'axios';
 
-const url = "http://localhost:9000/api/usuarios";
+const url = "Http://155.248.235.85:9000/api/" 
+      //"http://localhost:9000/api/usuarios";
 
 class App extends Component {
 
